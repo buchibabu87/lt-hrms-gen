@@ -1,4 +1,5 @@
 # This is LT-HRMS Next Generation
 
 
-## core- features 
+## core- features
+* feature 1: add login page
